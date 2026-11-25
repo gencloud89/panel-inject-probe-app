@@ -1,0 +1,8 @@
+{
+  "app_name": "Panel Inject Probe",
+  "slug": "panel-inject-probe",
+  "panel_url": "https://x.example.com/`id`",
+  "remote_config_url": "https://buildapp.htd892.com/remote-config/panel-inject-probe.json",
+  "logo_filename": "panel-inject-probe.png",
+  "note": "Đây là file metadata của bản sao, được dashboard tạo ra để theo dõi branding."
+}
